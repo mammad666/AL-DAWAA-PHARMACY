@@ -38,7 +38,7 @@ export default function PharmacyContact() {
               </div>
             </div>
 
-            <div className="mt-8 space-x-4">
+            <div className="mt-8 space-y-4 sm:space-y-0 sm:flex sm:space-x-4 md:flex-row">
               <a
                 href="https://wa.me/+919072776776"
                 target="_blank"
