@@ -4,7 +4,7 @@ export default function OfferCarousel() {
       <div className="flex animate-scroll">
         {/* First set of items */}
         <div className="flex-shrink-0 px-4 py-1 bg-slate-200 text-black text-sm sm:text-base md:text-medium font-light font-mono">
-          Special Offer: Get 30% Off on All Medicines!
+          Special Offer: Get 15% Off on All Medicines!
         </div>
         <div className="flex-shrink-0 px-4 py-1 bg-slate-200 text-black text-sm sm:text-base md:text-medium font-light font-mono">
           Buy 1 Get 1 Free on Selected Products!
@@ -14,7 +14,7 @@ export default function OfferCarousel() {
         </div>
 
         <div className="flex-shrink-0 px-4 py-1 bg-slate-200 text-black text-sm sm:text-base md:text-medium font-light font-mono">
-          Special Offer: Get 30% Off on All Medicines!
+          Special Offer: Get 15% Off on All Medicines!
         </div>
         <div className="flex-shrink-0 px-4 py-1 bg-slate-200 text-black text-sm sm:text-base md:text-medium font-light font-mono">
           Buy 1 Get 1 Free on Selected Products!
