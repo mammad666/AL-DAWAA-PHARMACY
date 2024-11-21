@@ -5,11 +5,11 @@ const Images = () => {
 
   return (
     <>
-      <div id="services" className="m-2 my-10">
+      <div id="services" className="m-1 my-5">
         <h1 className="text-center text-3xl sm:text-4xl font-mono font-bold text-teal-700">
           OUR SERVICES
         </h1>
-        <div className="grid grid-cols-2 gap-10 p-10">
+        <div className="grid grid-cols-2 gap-10 p-5">
           {images.map((src, index) => (
             <Image
               key={index}

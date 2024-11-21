@@ -1,7 +1,7 @@
 const Banner = () => {
   return (
     <>
-      <img src="AL-DAWAA PHARMA (5).jpg"></img>
+      <img src="AL-DAWAA PHARMA (6).jpg"></img>
     </>
   );
 };
